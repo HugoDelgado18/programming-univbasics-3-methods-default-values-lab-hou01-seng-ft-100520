@@ -11,4 +11,4 @@ end
 
 
 
-meal_choice()
+meal_choice("carrots", "string beans")
